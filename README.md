@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a 1st year <i>happy</i> Ph.D. student at IP Paris (IMAGINE Lab). I am supervised by [David Picard](https://davidpicard.github.io/).
+I am a 2nd year <i>happy</i> Ph.D. student at IP Paris (IMAGINE Lab). I am supervised by [David Picard](https://davidpicard.github.io/).
 
 - 🔭 I’m currently working on text-to-image generative models.
 - 🧑‍🏫 My research lies in multi-modal generative models and the generalization of such models.
